@@ -1,0 +1,6 @@
+{
+  "name": "Rulio",
+  "description": "Adaptive Neural Sleep aid with binaural beats and 4-phase brainwave engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
